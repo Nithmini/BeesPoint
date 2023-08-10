@@ -1,0 +1,48 @@
+body{
+    color: blue;
+}
+.btn1 {
+    width: 110px;
+    align: center;
+    height: 50px;
+    background-color: red;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color:red;
+}
+.album py-5 bg-light{
+    background-color: white;
+}
+.card-img-top{
+    
+    height: 250px;
+}
+
+.hedings{
+   padding-left: 20px;
+   font-weight: bold;
+   color: #000;
+}
+.card-text{
+    color: #776c6c;
+}
+#top-up-button {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    z-index: 999;
+    background-color: #f6e3e3;
+    color: #1a1919;
+    border-radius: 20px;
+    padding: 5px 5px 5px 5px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#top-up-button:hover {
+    background-color: #f5f3f3;
+}
